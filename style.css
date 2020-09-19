@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.fullwebsite{
+    text-align: center;
+    color: white;
+    width: 70%;
+    margin: 0 auto;
+    box-shadow: 2px 2px 6px black;
+}
+.manubar{
+    background: #272cab;
+    margin-top: 5px;
+}
+.banner{
+    margin-bottom: -5px;
+}
+.containt{
+    background: #4e4ea7;
+}
+.containt p{
+    text-align: justify;
+    padding: 0 10px;
+}
+.foter{
+    background: #555563;
+}
+.sub-foter{
+    background: #23232b;
+    margin-bottom: 10px;
+}
+img{
+    max-width: 100%;
+}
+.padding{
+    padding: 30px 0;
+}
+.padding-high{
+    padding: 60px 0;
+}
